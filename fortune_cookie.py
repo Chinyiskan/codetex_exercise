@@ -1,5 +1,6 @@
 import random
 
+
 #This simple program emulates a fortune cookie🍪
 def fortune_cookie():
     cookie = random.randint(1, 8)
